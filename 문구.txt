@@ -1,0 +1,44 @@
+sec2_textbox , textbox 
+title_wrap  , sec2_title_wrap 
+sec2_title , title
+sec2_text , text
+more_btn , sec2_more_btn , more_text
+
+
+OLD SCHOOL
+
+OLD SCHOOL
+ENGLISH ROADSTER
+
+자이크 정통 브리시티 로드스터
+"26인치 사이즈 휠과 시마노 6단기어" 가
+만들어 주는 시원스런 스피드
+
+MORE
+
+
+클래식한 감성 디자인에 완성도 높은
+헌대 기술이 접목한 프리미엄
+
+폭넓은 안장 높이 조절로 남녀노소
+ "155~187cm"까지 가능한 사이즈로 라이딩을
+완벽하게 즐기기에 부족함이 없습니다
+
+
+
+<p>the jikc bicycle original quality</p>
+<h1 class="sec6_h01">OLD<span class="blue">SCHOOL</span></h1>
+<p class="gray">bon chic bon gengr</p>
+
+
+.sec6_h01{letter-spacing: 15px;}
+.group_title p{
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 17px;
+    color: #444;
+    letter-spacing: 4px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+.group_title .gray{color: rgb(133, 133, 133);}
